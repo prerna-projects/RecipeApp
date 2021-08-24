@@ -1,0 +1,10 @@
+INSERT INTO Unit_Of_Measure(uom) VALUES ('TeaSpoon');
+INSERT INTO Unit_Of_Measure(uom) VALUES ('TableSpoon');
+INSERT INTO Unit_Of_Measure(uom) VALUES ('Cup');
+INSERT INTO Unit_Of_Measure(uom) VALUES ('Pinch');
+INSERT INTO Unit_Of_Measure(uom) VALUES ('Ounce');
+INSERT INTO Category(category_Name) VALUES ('Italian');
+INSERT INTO Category(category_Name) VALUES ('Mexican');
+INSERT INTO Category(category_Name) VALUES ('Chinese');
+INSERT INTO Category(category_Name) VALUES ('American');
+INSERT INTO Category(category_Name) VALUES ('Fast Food');
