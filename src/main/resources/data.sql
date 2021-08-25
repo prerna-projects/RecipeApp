@@ -1,0 +1,15 @@
+INSERT INTO Unit_Of_Measure(uom) VALUES ('teaspoon');
+INSERT INTO Unit_Of_Measure(uom) VALUES ('tablespoon');
+INSERT INTO Unit_Of_Measure(uom) VALUES ('cup');
+INSERT INTO Unit_Of_Measure(uom) VALUES ('pinch');
+INSERT INTO Unit_Of_Measure(uom) VALUES ('ounce');
+INSERT INTO Unit_Of_Measure(uom) VALUES ('ripe');
+INSERT INTO Unit_Of_Measure(uom) VALUES ('clove');
+INSERT INTO Unit_Of_Measure(uom) VALUES ('pint');
+INSERT INTO Unit_Of_Measure(uom) VALUES ('each');
+INSERT INTO Unit_Of_Measure(uom) VALUES ('dash');
+INSERT INTO Category(category_Name) VALUES ('Italian');
+INSERT INTO Category(category_Name) VALUES ('Mexican');
+INSERT INTO Category(category_Name) VALUES ('Chinese');
+INSERT INTO Category(category_Name) VALUES ('American');
+INSERT INTO Category(category_Name) VALUES ('Fast Food');
