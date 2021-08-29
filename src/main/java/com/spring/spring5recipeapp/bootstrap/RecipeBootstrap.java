@@ -38,7 +38,7 @@ public class RecipeBootstrap implements ApplicationListener<ContextRefreshedEven
 	
 	private List<Recipe> getRecipes(){
 		
-		List<Recipe> recipes = new ArrayList<>(2);
+		List<Recipe> recipes = new ArrayList<>();
 		
 		//get UOM
 		Optional<UnitOfMeasure> teaspoonUom = unitOfMeasureRepository.findByUom("teaspoon");
