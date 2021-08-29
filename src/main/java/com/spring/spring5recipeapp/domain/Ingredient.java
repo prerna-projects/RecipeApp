@@ -32,6 +32,9 @@ public class Ingredient {
 	private Recipe recipe;
 
 /******** Constructors ******/	
+	public Ingredient() {
+		
+	}
 	public Ingredient(String description, BigDecimal amount, UnitOfMeasure uom) {
 		
 		this.description = description;
